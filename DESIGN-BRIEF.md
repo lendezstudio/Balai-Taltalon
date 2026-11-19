@@ -1,4 +1,4 @@
-# Balai Taltalon Nature Resort — Design Brief
+# Balai Taltalon Nature Resort: Design Brief
 
 Concept website · prepared 19 Nov 2026 · target: `lendezstudio.github.io/Balai-Taltalon/`
 
@@ -55,7 +55,7 @@ Concept website · prepared 19 Nov 2026 · target: `lendezstudio.github.io/Balai
 
 **Section order**
 1. Promo popup on load (skip it, too intrusive)
-2. **Hero:** full-bleed photo with a dark overlay. Small uppercase eyebrow between two thin rules ("— ARIA VILLAS SEMINYAK —"), large H1, outlined "Reserve" button. Fixed transparent header with a script logo on the left and a hamburger on the right.
+2. **Hero:** full-bleed photo with a dark overlay. Small uppercase eyebrow between two thin horizontal rules ("ARIA VILLAS SEMINYAK"), large H1, outlined "Reserve" button. Fixed transparent header with a script logo on the left and a hamburger on the right.
 3. **Booking bar:** "Best Rate Guaranteed" with dates, guests, promo code and Search
 4. **Welcome:** script "Welcome to" above a bold uppercase H2, then centered body copy (about 900px wide)
 5. **Villa feature:** full-bleed photo, room-type title, "More Details"
@@ -99,7 +99,7 @@ Concept website · prepared 19 Nov 2026 · target: `lendezstudio.github.io/Balai
 
 ### Layout and sections (mapped to Aria)
 1. **Header:** wordmark on the left. Nav: Stay · Grounds · Explore · Gallery · Reviews · Location. "Message us" (ember) on the right, and a hamburger on mobile. Transparent over the hero, then pine once you scroll.
-2. **Hero:** full-bleed Balai photo (main villa veranda, or the rice-field and mountain view). Eyebrow "— San Antonio · Zambales —", H1 "Where stress goes to completely fade away". Two CTAs: *Message us on Messenger* and *Call 0942 972 7377*.
+2. **Hero:** full-bleed Balai photo (main villa veranda, or the rice-field and mountain view). Eyebrow "San Antonio · Zambales" (no rules), H1 "Where stress goes to completely fade away". Two CTAs: *Message us on Messenger* and *Call 0942 972 7377*.
 3. **Plan-your-stay bar:** stands in for Aria's booking bar. Check-in, check-out, guests and a "Ask for rates" button that opens Messenger. No booking engine. The bar also shows ★ 4.89 Airbnb · Superhost.
 4. **Welcome / the story:** italic "Welcome to", the H2 "Balai Taltalon", the motto "Escape. Relax. Reconnect." and a short story built from their own description. Key facts row: 1 hectare · up to 15 guests · check-in 2 PM · pet-friendly.
 5. **The Log Cabin & Guest Wing:** two full-bleed split features with overlapping cards showing beds, baths and capacity, plus a combined "Whole resort, up to 15 guests" note.

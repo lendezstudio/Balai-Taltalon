@@ -65,8 +65,7 @@ svg { width: 1.1em; height: 1.1em; flex: none; }
   color: var(--moss);
   margin-bottom: 14px;
 }
-.eyebrow-ruled { display: inline-flex; align-items: center; gap: 14px; color: var(--sand); }
-.eyebrow-ruled::before, .eyebrow-ruled::after { content: ""; width: 34px; height: 1px; background: currentColor; opacity: .8; }
+.eyebrow-ruled { color: var(--sand); }
 .eyebrow-light { color: var(--gold); }
 .script { font-family: var(--serif); font-style: italic; font-weight: 300; font-size: clamp(24px, 3.4vw, 34px); color: var(--moss); margin: 0; }
 .display { font-size: clamp(42px, 7.2vw, 84px); margin: 0 0 6px; color: var(--pine); }
